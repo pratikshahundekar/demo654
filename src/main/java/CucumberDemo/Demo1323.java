@@ -7,6 +7,8 @@ public class Demo1323 {
 		System.out.println("Push code to master branch directly..");
 		
 		System.out.println("Hello ");
+		
+		System.out.println("new data is added");
 	}
 
 }
